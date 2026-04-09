@@ -1,6 +1,6 @@
 {
-  "name": "react-native-safe-area-context",
-  "version": "5.7.0",
+  "name": "@yunlu-apps/react-native-safe-area-context",
+  "version": "5.7.0-patch.0",
   "description": "A flexible way to handle safe area, also works on Android and web.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -52,7 +52,7 @@
     "view"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "peerDependencies": {
     "react": "*",

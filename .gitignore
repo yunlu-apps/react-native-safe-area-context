@@ -63,3 +63,5 @@ lib/
 # Expo
 web-build
 .expo
+
+.npmrc
